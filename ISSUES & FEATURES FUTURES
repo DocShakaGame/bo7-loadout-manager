@@ -1,0 +1,21 @@
+📌 **Issues à créer :**
+
+1. **Enhancement: Export/Import loadouts**
+   - Labels: enhancement, feature
+   - Description: Allow users to export and import loadouts as JSON
+
+2. **Feature: Dark/Light theme**
+   - Labels: enhancement, UI
+   - Description: Toggle between dark and light themes
+
+3. **Bug: Handle missing weapons gracefully**
+   - Labels: bug, critical
+   - Description: App should not crash if weapons.json is missing
+
+4. **Documentation: Add video tutorial**
+   - Labels: documentation
+   - Description: Create YouTube tutorial for setup
+
+5. **Performance: Optimize weapon loading**
+   - Labels: performance
+   - Description: Load weapons asynchronously
