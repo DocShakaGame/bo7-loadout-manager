@@ -1,0 +1,830 @@
+{
+  "version": "2.0",
+  "date_updated": "2026-05-01T08:35:00",
+  "total": 41,
+  "weapons": [
+    {
+      "id": "mk35_isr",
+      "name": "MK35 ISR",
+      "category": "AR",
+      "tier": "S",
+      "damage": 72.0,
+      "range": 85.0,
+      "accuracy": 80.0,
+      "magazine_capacity": 30,
+      "fire_rate": 750,
+      "description": "Assault rifle haut de gamme avec excellente portée",
+      "meta_score": 9.2,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/mk35-isr",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Longue portée",
+            "code": "A12-34FK5-DRNJU-11",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO HoverPoint FANG"},
+              {"type": "Bouche", "nom": "Silencieux Monolithique"},
+              {"type": "Canon", "nom": "Canon Greaves Bellum 16,5\""},
+              {"type": "Accessoire canon", "nom": "Poignée avant VAS Convergence"},
+              {"type": "Chargeur", "nom": "Chargeur à tambour Bowen Siren"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "razor_9mm",
+      "name": "Razor 9mm",
+      "category": "PISTOL",
+      "tier": "A",
+      "damage": 45.0,
+      "range": 40.0,
+      "accuracy": 70.0,
+      "magazine_capacity": 12,
+      "fire_rate": 800,
+      "description": "Pistolet semi-automatique précis et rapide",
+      "meta_score": 8.1,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/razor-9mm",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Courte portée",
+            "code": "S03-AUXZ3-92ZB1-1",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO Lethal Tools"},
+              {"type": "Bouche", "nom": "Silencieux Redwell Shade-X"},
+              {"type": "Canon", "nom": "Canon personnalisé"},
+              {"type": "Chargeur", "nom": "Chargeur étendu"},
+              {"type": "Crosse", "nom": "Crosse légère"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "strider_300",
+      "name": "Strider 300",
+      "category": "SNIPER",
+      "tier": "S",
+      "damage": 100.0,
+      "range": 100.0,
+      "accuracy": 95.0,
+      "magazine_capacity": 5,
+      "fire_rate": 50,
+      "description": "Fusil de précision avec une portée maximale",
+      "meta_score": 9.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/strider-300",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Fusil de précision",
+            "code": "S01-PRECISION-001",
+            "accessoires": [
+              {"type": "Lunette", "nom": "Redwell 30-S 2x"},
+              {"type": "Chargeur", "nom": "Cartouche longue portée"},
+              {"type": "Mods de tir", "nom": "Stabilisateur de recul"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "vst",
+      "name": "VST",
+      "category": "AR",
+      "tier": "A",
+      "damage": 68.0,
+      "range": 80.0,
+      "accuracy": 75.0,
+      "magazine_capacity": 30,
+      "fire_rate": 700,
+      "description": "Fusil d'assaut polyvalent avec bonne précision",
+      "meta_score": 8.7,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/vst",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Polyvalent",
+            "code": "A05-VERSATILE-01",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO HoverPoint FANG"},
+              {"type": "Bouche", "nom": "Silencieux standard"},
+              {"type": "Canon", "nom": "Canon standard"},
+              {"type": "Chargeur", "nom": "Chargeur étendu"},
+              {"type": "Crosse", "nom": "Crosse standard"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "hawker_hx",
+      "name": "Hawker HX",
+      "category": "SHOTGUN",
+      "tier": "B",
+      "damage": 90.0,
+      "range": 15.0,
+      "accuracy": 35.0,
+      "magazine_capacity": 8,
+      "fire_rate": 80,
+      "description": "Fusil de chasse puissant à courte portée",
+      "meta_score": 7.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/hawker-hx",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Courte portée",
+            "code": "C01-SHOTGUN-01",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO Lethal Tools"},
+              {"type": "Canon", "nom": "Canon court"},
+              {"type": "Chargeur", "nom": "Chargeur étendu"},
+              {"type": "Crosse", "nom": "Crosse légère"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "voyak_kt3",
+      "name": "Voyak KT-3",
+      "category": "AR",
+      "tier": "A",
+      "damage": 70.0,
+      "range": 82.0,
+      "accuracy": 78.0,
+      "magazine_capacity": 30,
+      "fire_rate": 720,
+      "description": "Fusil d'assaut russe fiable et efficace",
+      "meta_score": 8.5,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/voyak-kt-3",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Équilibrée",
+            "code": "A08-VOYAK-01",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO HoverPoint FANG"},
+              {"type": "Bouche", "nom": "Silencieux Bowen .45"},
+              {"type": "Canon", "nom": "Canon EAM Horzion 19\""},
+              {"type": "Poignée Arrière", "nom": "Poignée Herald-Z1"},
+              {"type": "Crosse", "nom": "Crosse Serval Q-Step"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dravec_45",
+      "name": "Dravec 45",
+      "category": "SMG",
+      "tier": "A",
+      "damage": 50.0,
+      "range": 35.0,
+      "accuracy": 68.0,
+      "magazine_capacity": 25,
+      "fire_rate": 900,
+      "description": "SMG compacte avec cadence de tir élevée",
+      "meta_score": 8.3,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/dravec-45",
+      "modes": {}
+    },
+    {
+      "id": "peacekeeper_mk1",
+      "name": "Peacekeeper Mk1",
+      "category": "AR",
+      "tier": "S",
+      "damage": 75.0,
+      "range": 87.0,
+      "accuracy": 82.0,
+      "magazine_capacity": 30,
+      "fire_rate": 740,
+      "description": "Fusil d'assaut premium haute performance",
+      "meta_score": 9.3,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/peacekeeper-mk1",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Longue portée",
+            "code": "A06-34FBS-SSSP3-11",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO HoverPoint FANG"},
+              {"type": "Bouche", "nom": "Silencieux Monolithique"},
+              {"type": "Canon", "nom": "Canon lourd EAM 25\""},
+              {"type": "Chargeur", "nom": "Chargeur étendu Barrage"},
+              {"type": "Crosse", "nom": "Crosse MFS Counterforce-C1"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "egrt_17",
+      "name": "EGRT-17",
+      "category": "AR",
+      "tier": "B",
+      "damage": 65.0,
+      "range": 78.0,
+      "accuracy": 72.0,
+      "magazine_capacity": 30,
+      "fire_rate": 680,
+      "description": "Fusil d'assaut standard avec balance équilibrée",
+      "meta_score": 7.9,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/egrt-17",
+      "modes": {}
+    },
+    {
+      "id": "xr3_ion",
+      "name": "XR-3 Ion",
+      "category": "SMG",
+      "tier": "A",
+      "damage": 48.0,
+      "range": 33.0,
+      "accuracy": 66.0,
+      "magazine_capacity": 24,
+      "fire_rate": 920,
+      "description": "SMG futuriste rapide et précise",
+      "meta_score": 8.2,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/xr-3-ion",
+      "modes": {}
+    },
+    {
+      "id": "carbon_57",
+      "name": "Carbon 57",
+      "category": "SMG",
+      "tier": "A",
+      "damage": 52.0,
+      "range": 37.0,
+      "accuracy": 70.0,
+      "magazine_capacity": 26,
+      "fire_rate": 880,
+      "description": "SMG légère avec bonne précision",
+      "meta_score": 8.4,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/carbon-57",
+      "modes": {}
+    },
+    {
+      "id": "kogot_7",
+      "name": "Kogot-7",
+      "category": "SNIPER",
+      "tier": "A",
+      "damage": 95.0,
+      "range": 95.0,
+      "accuracy": 92.0,
+      "magazine_capacity": 6,
+      "fire_rate": 55,
+      "description": "Fusil de précision semi-automatique",
+      "meta_score": 9.1,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/kogot-7",
+      "modes": {}
+    },
+    {
+      "id": "mk78",
+      "name": "MK.78",
+      "category": "SNIPER",
+      "tier": "S",
+      "damage": 105.0,
+      "range": 98.0,
+      "accuracy": 94.0,
+      "magazine_capacity": 5,
+      "fire_rate": 45,
+      "description": "Sniper classique avec haute puissance",
+      "meta_score": 9.6,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/mk78",
+      "modes": {}
+    },
+    {
+      "id": "ryden_45k",
+      "name": "Ryden 45K",
+      "category": "SHOTGUN",
+      "tier": "A",
+      "damage": 92.0,
+      "range": 18.0,
+      "accuracy": 38.0,
+      "magazine_capacity": 8,
+      "fire_rate": 85,
+      "description": "Fusil de chasse puissant et fiable",
+      "meta_score": 8.6,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/ryden-45k",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Courte portée",
+            "code": "S01-AUY8U-EXTF1-1",
+            "accessoires": [
+              {"type": "Lunette", "nom": "ELO Lethal Tools"},
+              {"type": "Canon", "nom": "Canon Vienna 12\""},
+              {"type": "Chargeur", "nom": "Chargeur Forward Breach"},
+              {"type": "Poignée Arrière", "nom": "Poignée Eruption"},
+              {"type": "Crosse", "nom": "Crosse intégrale MFS +"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "vs_recon",
+      "name": "VS Recon",
+      "category": "SNIPER",
+      "tier": "B",
+      "damage": 88.0,
+      "range": 92.0,
+      "accuracy": 90.0,
+      "magazine_capacity": 8,
+      "fire_rate": 60,
+      "description": "Fusil de reconnaissance longue portée",
+      "meta_score": 7.7,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/vs-recon",
+      "modes": {}
+    },
+    {
+      "id": "ak27",
+      "name": "AK-27",
+      "category": "AR",
+      "tier": "A",
+      "damage": 74.0,
+      "range": 84.0,
+      "accuracy": 76.0,
+      "magazine_capacity": 30,
+      "fire_rate": 730,
+      "description": "Fusil d'assaut classique puissant",
+      "meta_score": 8.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/ak-27",
+      "modes": {}
+    },
+    {
+      "id": "rev46",
+      "name": "REV-46",
+      "category": "PISTOL",
+      "tier": "B",
+      "damage": 55.0,
+      "range": 42.0,
+      "accuracy": 72.0,
+      "magazine_capacity": 6,
+      "fire_rate": 350,
+      "description": "Pistolet révolver avec haut dégâts",
+      "meta_score": 7.6,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/rev-46",
+      "modes": {}
+    },
+    {
+      "id": "m15_mod0",
+      "name": "M15 Mod 0",
+      "category": "AR",
+      "tier": "A",
+      "damage": 71.0,
+      "range": 83.0,
+      "accuracy": 79.0,
+      "magazine_capacity": 30,
+      "fire_rate": 710,
+      "description": "Fusil d'assaut militaire standard",
+      "meta_score": 8.5,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/m15-mod-0",
+      "modes": {}
+    },
+    {
+      "id": "x9_maverick",
+      "name": "X9 Maverick",
+      "category": "SMG",
+      "tier": "B",
+      "damage": 46.0,
+      "range": 32.0,
+      "accuracy": 64.0,
+      "magazine_capacity": 23,
+      "fire_rate": 910,
+      "description": "SMG compacte basique",
+      "meta_score": 7.4,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/x9-maverick",
+      "modes": {}
+    },
+    {
+      "id": "mxr17",
+      "name": "MXR-17",
+      "category": "AR",
+      "tier": "B",
+      "damage": 66.0,
+      "range": 79.0,
+      "accuracy": 73.0,
+      "magazine_capacity": 30,
+      "fire_rate": 690,
+      "description": "Fusil d'assaut modulaire standard",
+      "meta_score": 7.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/mxr-17",
+      "modes": {}
+    },
+    {
+      "id": "swordfish_a1",
+      "name": "Swordfish A1",
+      "category": "AR",
+      "tier": "A",
+      "damage": 73.0,
+      "range": 86.0,
+      "accuracy": 81.0,
+      "magazine_capacity": 30,
+      "fire_rate": 750,
+      "description": "Fusil d'assaut précis et puissant",
+      "meta_score": 8.9,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/swordfish-a1",
+      "modes": {}
+    },
+    {
+      "id": "sokol_545",
+      "name": "Sokol 545",
+      "category": "AR",
+      "tier": "A",
+      "damage": 69.0,
+      "range": 81.0,
+      "accuracy": 77.0,
+      "magazine_capacity": 30,
+      "fire_rate": 720,
+      "description": "Fusil d'assaut soviétique moderne",
+      "meta_score": 8.6,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/sokol-545",
+      "modes": {}
+    },
+    {
+      "id": "ds20_mirage",
+      "name": "DS20 Mirage",
+      "category": "SNIPER",
+      "tier": "A",
+      "damage": 98.0,
+      "range": 96.0,
+      "accuracy": 93.0,
+      "magazine_capacity": 5,
+      "fire_rate": 48,
+      "description": "Fusil de précision futuriste",
+      "meta_score": 9.2,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/ds20-mirage",
+      "modes": {}
+    },
+    {
+      "id": "sturmwolf_45",
+      "name": "Sturmwolf 45",
+      "category": "SMG",
+      "tier": "A",
+      "damage": 54.0,
+      "range": 38.0,
+      "accuracy": 71.0,
+      "magazine_capacity": 27,
+      "fire_rate": 900,
+      "description": "SMG allemande rapide et puissante",
+      "meta_score": 8.5,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/sturmwolf-45",
+      "modes": {}
+    },
+    {
+      "id": "m8a1",
+      "name": "M8A1",
+      "category": "AR",
+      "tier": "S",
+      "damage": 76.0,
+      "range": 88.0,
+      "accuracy": 83.0,
+      "magazine_capacity": 30,
+      "fire_rate": 760,
+      "description": "Fusil d'assaut premium haute performance",
+      "meta_score": 9.4,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/m8a1",
+      "modes": {}
+    },
+    {
+      "id": "maddox_rfb",
+      "name": "Maddox RFB",
+      "category": "SNIPER",
+      "tier": "B",
+      "damage": 85.0,
+      "range": 90.0,
+      "accuracy": 88.0,
+      "magazine_capacity": 10,
+      "fire_rate": 100,
+      "description": "Fusil semi-automatique longue portée",
+      "meta_score": 7.9,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/maddox-rfb",
+      "modes": {}
+    },
+    {
+      "id": "mpc25",
+      "name": "MPC-25",
+      "category": "SHOTGUN",
+      "tier": "B",
+      "damage": 88.0,
+      "range": 16.0,
+      "accuracy": 36.0,
+      "magazine_capacity": 7,
+      "fire_rate": 75,
+      "description": "Fusil de chasse compact standard",
+      "meta_score": 7.5,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/mpc-25",
+      "modes": {}
+    },
+    {
+      "id": "1911_pistol",
+      "name": "1911 Pistol",
+      "category": "PISTOL",
+      "tier": "A",
+      "damage": 60.0,
+      "range": 45.0,
+      "accuracy": 75.0,
+      "magazine_capacity": 7,
+      "fire_rate": 450,
+      "description": "Pistolet classique haute puissance",
+      "meta_score": 8.4,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/1911-pistol",
+      "modes": {}
+    },
+    {
+      "id": "velox_57",
+      "name": "Velox 5.7",
+      "category": "PISTOL",
+      "tier": "A",
+      "damage": 48.0,
+      "range": 42.0,
+      "accuracy": 73.0,
+      "magazine_capacity": 20,
+      "fire_rate": 850,
+      "description": "Pistolet semi-automatique haute cadence",
+      "meta_score": 8.3,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/velox-57",
+      "modes": {}
+    },
+    {
+      "id": "gpmg7",
+      "name": "GPMG-7",
+      "category": "LMG",
+      "tier": "B",
+      "damage": 62.0,
+      "range": 76.0,
+      "accuracy": 68.0,
+      "magazine_capacity": 100,
+      "fire_rate": 650,
+      "description": "Mitrailleuse légère avec grand chargeur",
+      "meta_score": 7.6,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/gpmg-7",
+      "modes": {}
+    },
+    {
+      "id": "jackal_pdw",
+      "name": "Jackal PDW",
+      "category": "SMG",
+      "tier": "B",
+      "damage": 47.0,
+      "range": 34.0,
+      "accuracy": 65.0,
+      "magazine_capacity": 24,
+      "fire_rate": 930,
+      "description": "SMG compacte haute cadence",
+      "meta_score": 7.7,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/jackal-pdw",
+      "modes": {}
+    },
+    {
+      "id": "gpmg9",
+      "name": "GPMG-9",
+      "category": "LMG",
+      "tier": "A",
+      "damage": 65.0,
+      "range": 78.0,
+      "accuracy": 70.0,
+      "magazine_capacity": 120,
+      "fire_rate": 670,
+      "description": "Mitrailleuse légère performante",
+      "meta_score": 8.2,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/gpmg-9",
+      "modes": {}
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "category": "SHOTGUN",
+      "tier": "A",
+      "damage": 95.0,
+      "range": 20.0,
+      "accuracy": 40.0,
+      "magazine_capacity": 8,
+      "fire_rate": 90,
+      "description": "Fusil de chasse puissant et lourd",
+      "meta_score": 8.7,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/argus",
+      "modes": {}
+    },
+    {
+      "id": "akimbo",
+      "name": "Akimbo",
+      "category": "PISTOL",
+      "tier": "S",
+      "damage": 65.0,
+      "range": 38.0,
+      "accuracy": 60.0,
+      "magazine_capacity": 14,
+      "fire_rate": 950,
+      "description": "Dual-wield pistols - haute cadence destructrice",
+      "meta_score": 9.1,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/akimbo",
+      "modes": {}
+    },
+    {
+      "id": "nx_ravager",
+      "name": "NX Ravager",
+      "category": "LAUNCHER",
+      "tier": "A",
+      "damage": 110.0,
+      "range": 80.0,
+      "accuracy": 50.0,
+      "magazine_capacity": 1,
+      "fire_rate": 30,
+      "description": "Lanceur hautement explosif",
+      "meta_score": 8.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/nx-ravager",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Fusil de précision",
+            "code": "N/A",
+            "accessoires": [
+              {"type": "Lunette", "nom": "Redwell 30-S 2x"},
+              {"type": "Chargeur", "nom": "Triple carreau"},
+              {"type": "Mods de tir", "nom": "Carreau d'arbalète explosif"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "akita",
+      "name": "Akita",
+      "category": "SHOTGUN",
+      "tier": "B",
+      "damage": 91.0,
+      "range": 17.0,
+      "accuracy": 37.0,
+      "magazine_capacity": 8,
+      "fire_rate": 82,
+      "description": "Fusil de chasse standard fiable",
+      "meta_score": 7.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/akita",
+      "modes": {
+        "Warzone": [
+          {
+            "catégorie": "Courte portée",
+            "code": "C03-69DQJ-3WL11",
+            "accessoires": [
+              {"type": "Bouche", "nom": "Choke modifié Fang"},
+              {"type": "Canon", "nom": "Canon de chasse Retriever 14\""},
+              {"type": "Chargeur", "nom": "Chargeur étendu Bulk II"},
+              {"type": "Poignée Arrière", "nom": "Poignée Paradise Gen-4"},
+              {"type": "Laser", "nom": "Laser EAM ScatterLine"}
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "famas",
+      "name": "FAMAS",
+      "category": "AR",
+      "tier": "A",
+      "damage": 70.0,
+      "range": 82.0,
+      "accuracy": 78.0,
+      "magazine_capacity": 30,
+      "fire_rate": 740,
+      "description": "Fusil d'assaut français haute performance",
+      "meta_score": 8.7,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/famas",
+      "modes": {}
+    },
+    {
+      "id": "tac45",
+      "name": "TAC-45",
+      "category": "PISTOL",
+      "tier": "B",
+      "damage": 58.0,
+      "range": 44.0,
+      "accuracy": 74.0,
+      "magazine_capacity": 8,
+      "fire_rate": 480,
+      "description": "Pistolet tactique équilibré",
+      "meta_score": 7.9,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/tac-45",
+      "modes": {}
+    },
+    {
+      "id": "marshal16",
+      "name": "Marshal 16",
+      "category": "SHOTGUN",
+      "tier": "S",
+      "damage": 98.0,
+      "range": 22.0,
+      "accuracy": 42.0,
+      "magazine_capacity": 8,
+      "fire_rate": 95,
+      "description": "Fusil de chasse ultime haute puissance",
+      "meta_score": 9.5,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/marshal-16",
+      "modes": {}
+    },
+    {
+      "id": "lcar9",
+      "name": "LCAR-9",
+      "category": "PISTOL",
+      "tier": "C",
+      "damage": 42.0,
+      "range": 38.0,
+      "accuracy": 68.0,
+      "magazine_capacity": 12,
+      "fire_rate": 770,
+      "description": "Pistolet de secours basique",
+      "meta_score": 6.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/lcar-9",
+      "modes": {}
+    },
+    {
+      "id": "psg1",
+      "name": "PSG-1",
+      "category": "SNIPER",
+      "tier": "A",
+      "damage": 92.0,
+      "range": 94.0,
+      "accuracy": 91.0,
+      "magazine_capacity": 20,
+      "fire_rate": 70,
+      "description": "Fusil de précision semi-automatique allemand",
+      "meta_score": 9.0,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/psg-1",
+      "modes": {}
+    },
+    {
+      "id": "gpmg11",
+      "name": "GPMG-11",
+      "category": "LMG",
+      "tier": "B",
+      "damage": 63.0,
+      "range": 77.0,
+      "accuracy": 69.0,
+      "magazine_capacity": 110,
+      "fire_rate": 660,
+      "description": "Mitrailleuse légère compacte",
+      "meta_score": 7.8,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/gpmg-11",
+      "modes": {}
+    },
+    {
+      "id": "krig6",
+      "name": "KRIG 6",
+      "category": "AR",
+      "tier": "B",
+      "damage": 67.0,
+      "range": 80.0,
+      "accuracy": 74.0,
+      "magazine_capacity": 30,
+      "fire_rate": 700,
+      "description": "Fusil d'assaut équilibré polyvalent",
+      "meta_score": 7.9,
+      "date_added": "2026-05-01T00:00:00",
+      "lien": "https://codmunity.gg/fr/weapon/bo7/krig-6",
+      "modes": {}
+    }
+  ]
+}

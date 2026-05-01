@@ -1,58 +1,11 @@
-# Python
+﻿.venv/
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
+*.pyc
+*.pyo
 *.egg-info/
-.installed.cfg
-*.egg
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.DS_Store
-
-# Logs
-logs/
-*.log
-*.log.*
-
-# Data
-data/json/*.json
-data/exports/
-*.xlsx
-*.csv
-
-# Tests
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Env
 .env
-.env.local
-.env.*.local
-
-# OS
-*.tmp
-Thumbs.db
 .DS_Store
+*.log
+node_modules/
+dist/
+build/
