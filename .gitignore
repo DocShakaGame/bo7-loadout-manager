@@ -29,20 +29,30 @@ wheels/
 *.swp
 *.swo
 *~
-
-# Environment
-.env
-.env.local
-.env.*.local
+.DS_Store
 
 # Logs
 logs/
 *.log
+*.log.*
 
 # Data
 data/json/*.json
-!data/json/.gitkeep
+data/exports/
+*.xlsx
+*.csv
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Env
+.env
+.env.local
+.env.*.local
 
 # OS
-.DS_Store
+*.tmp
 Thumbs.db
+.DS_Store
