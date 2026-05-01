@@ -1,11 +1,38 @@
-﻿.venv/
+﻿# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 *.egg-info/
-.env
-.DS_Store
-*.log
-node_modules/
 dist/
 build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data (optionnel)
+data/*.json
+!data/weapons.json
+
+# Env
+.env
+.env.local
